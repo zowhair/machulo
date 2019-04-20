@@ -24,12 +24,22 @@
       	<a class="nav-link" href="packages/climb/climbing.php">Climbing</a>
       </li>
       <li class="nav-item">
-      	<a class="nav-link" href="packages/climb/climbing.php">Gallery</a>
+      	<a class="nav-link" href="packages/gallery.php">Gallery</a>
       </li>
 
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Adventure</a>
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tours</a>
 	<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    <a class="dropdown-item" href="packages/tours/autumgb.php">Autum Gilgit-Baltistan</a>
+    <a class="dropdown-item" href="packages/tours/skardu.php">Skardu</a>
+    <a class="dropdown-item" href="packages/tours/blossomtour.php">Blossom Tour</a>
+    <a class="dropdown-item" href="packages/tours/Deosai.php">Deosai Plain</a>
+    <a class="dropdown-item" href="packages/tours/silkroute.php">Silk route</a>
+    <a class="dropdown-item" href="packages/tours/fairymeadow.php">Fairy Meadows</a>
+    <a class="dropdown-item" href="packages/tours/hunza.php">Hunza</a>
+    <a class="dropdown-item" href="packages/tours/hushe.php">Hushe Valley</a>
+    <a class="dropdown-item" href="packages/tours/naranka.php">Naran Kaghan</a>
+    <a class="dropdown-item" href="packages/tours/shimshal.php">Shimshal Valley</a>
 		<a class="dropdown-item" href="packages/adventure/safari15d.php">Mountain Safari 15 Days</a>
 		<a class="dropdown-item" href="packages/adventure/safari21d.php">Mountain Safari 21 Days</a>
      </div>

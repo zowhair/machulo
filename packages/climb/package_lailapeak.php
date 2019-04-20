@@ -10,7 +10,7 @@
 
 
 
-	<link rel="stylesheet" href="../../../../css/linearicons.css">
+	<link rel="stylesheet" href="../../css/linearicons.css">
 	<link rel="stylesheet" href="../../css/owl.carousel.css">
 	<link rel="stylesheet" href="../../css/font-awesome.min.css">
 	<link rel="stylesheet" href="../../css/magnific-popup.css">
@@ -23,103 +23,10 @@
 
 </head>
 <body>
-	<!-- Start Header Area -->
-		<header class="default-header">
-				<div class="container">
-					<div class="header-wrap">
-						<div class="header-top d-flex justify-content-between align-items-center">
-							<div class="logo ml-auto">
-								<a href="../../index.php"><img style="margin-left: -60%" src="../../images/new_logo2.png"  alt=""><span style="color:black;font-weight: bold;">Machulo Treks & Tours</span></a>
-							</div>
-							<!-- <div class="main-menubar collapse navbar-collapse d-flex align-items-center "> -->
-								<!-- <nav class="hide">
-									<a href="#home">Home</a>
-									<a href="#booking">Booking</a>
-									<a href="#package">Packages</a>
-									<a href="#">Trekking</a>
-									<a href="#">Climbing</a>
-									<a href="#">Adventure</a>
-									<a href="#contact">Contact</a>
-								</nav>
- -->
+	<?php 
+	include'header.php';
+	?>
 
-								<nav class="navbar navbar-expand-lg mr-auto navbar-light ">
- 
-								  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-								    <span class="navbar-toggler-icon"></span>
-								  </button>
-
-								  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-								    <ul class="navbar-nav mr-auto">
-								      <li class="nav-item active">
-								        <a class="nav-link" href="../../index.php">Home <span class="sr-only">(current)</span></a>
-								      </li>
-								      <li class="nav-item">
-								        <a class="nav-link" href="../trek/trekking.php">Treking</a>
-								      </li>
-								      <li class="nav-item"> 
-								      	<a class="nav-link" href="../climb/climbing.php">Climbing</a>
-								      	
-								      </li>
-								      <li class="nav-item dropdown">
-								      	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								          Adventure
-								        </a>
-								      	<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								          	<a class="dropdown-item" href="../adventure/safari15d.php">Mountain Safari 15 Days</a>
-								          	<a class="dropdown-item" href="../adventure/safari21d.php">Mountain Safari 21 Days</a>
-								          </div>
-								      </li>
-								       <li class="nav-item">
-								      	<a class="nav-link" href="../../contact.php">Contact</a>
-								      	
-								      </li>
-								    <!--   <li class="nav-item dropdown">
-								      	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								          Jeep Safari
-								        </a>
-								      	<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								          	<a class="dropdown-item" href="../adventure/safari15d.php">Skardu</a>
-								          	<a class="dropdown-item" href="../adventure/safari15d.php">Ganche</a>
-								          	<a class="dropdown-item" href="../adventure/safari21d.php">Deosai</a>
-								          	<a class="dropdown-item" href="../adventure/safari15d.php">Hunza</a>
-								          </div>
-								      </li> -->
-								      <!-- <li class="nav-item dropdown">
-								        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								          Booking
-								        </a>
-								        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								          <a class="dropdown-item" href="#">Packages</a>
-								          <a class="dropdown-item" href="#">Book a Tour</a>
-								          <div class="dropdown-divider"></div>
-								          
-								          
-								        </div>
-								      </li> -->
-								      <li class="nav-item">
-								      	<a class="nav-link" href="../../contact.php">Contact</a>
-								      	
-								      </li>
-								      <!-- <li class="nav-item">
-								        <a class="nav-link disabled" href="#">Disabled</a>
-								      </li> -->
-								    </ul>
-								    
-								  </div>
-								</nav>
-								<!-- <div class="menu-bar"><span class="lnr lnr-menu"></span> -->
-									
-								<!-- 	<span >
-										<i style="color:grey;" class="fas fa-ellipsis-v fa-1x"></i>
-									</span> -->
-								<!-- </div> -->
-							</div>
-						</div>
-					</div>
-				
-			</header>		
-	<!-- End Header Area -->
 
 
 
@@ -510,7 +417,14 @@ The height of the Laila peak in Hushe Valley is controversial. Some believe it t
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script src="../../js/jquery.magnific-popup.min.js"></script>
-	<script src="../../js/main.js"></script>
+	<script type="text/javascript">
+	$(function () {
+  $(document).scroll(function () {
+    var $nav = $(".navbar");
+    $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
+  });
+});
+</script>
 
 </body>
 </html>

@@ -17,114 +17,145 @@
 	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 	<link rel="stylesheet" href="../../css/bootstrap.css">
 	<link rel="stylesheet" href="../../css/main.css">
-	<!-- <link rel="stylesheet" type="text/css" href="css/all.css"> -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+
+
 
 </head>
 <body>
 
 	<!-- Start Header Area -->
-		<header class="default-header">
-				<div class="container">
-					<div class="header-wrap">
-						<div class="header-top d-flex justify-content-between align-items-center">
-							<div class="logo ml-auto">
-								<a href="../../index.php"><img style="margin-left: -60%" src="../../images/new_logo2.png"  alt=""><span style="color:black;font-weight: bold;">Machulo Treks & Tours</span></a>
-							</div>
-							<!-- <div class="main-menubar collapse navbar-collapse d-flex align-items-center "> -->
-								<!-- <nav class="hide">
-									<a href="#home">Home</a>
-									<a href="#booking">Booking</a>
-									<a href="#package">Packages</a>
-									<a href="#">Trekking</a>
-									<a href="#">Climbing</a>
-									<a href="#">Adventure</a>
-									<a href="#contact">Contact</a>
-								</nav>
- -->
-
-								<nav class="navbar navbar-expand-lg mr-auto navbar-light ">
- 
-								  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-								    <span class="navbar-toggler-icon"></span>
-								  </button>
-
-								  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-								    <ul class="navbar-nav mr-auto">
-								      <li class="nav-item active">
-								        <a class="nav-link" href="../../index.php">Home <span class="sr-only">(current)</span></a>
-								      </li>
-								      <li class="nav-item">
-								        <a class="nav-link" href="../trek/trekking.php">Treking</a>
-								      </li>
-								      <li class="nav-item"> 
-								      	<a class="nav-link" href="../climb/climbing.php">Climbing</a>
-								      	
-								      </li>
-								      <li class="nav-item dropdown">
-								      	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								          Adventure
-								        </a>
-								      	<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								          	<a class="dropdown-item" href="../adventure/safari15d.php">Mountain Safari 15 Days</a>
-								          	<a class="dropdown-item" href="../adventure/safari21d.php">Mountain Safari 21 Days</a>
-								          </div>
-								      </li>
-								      <li class="nav-item ">
-								      	<a class="nav-link" href="../../aboutus.php">ABOUT US</a>
-								      	
-								      </li>
-								     <!--  <li class="nav-item dropdown">
-								      	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								          Jeep Safari
-								        </a>
-								      	<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								          	<a class="dropdown-item" href="../jeepsafari/jsafari_skardu.php">Skardu</a>
-								          	<a class="dropdown-item" href="../jeepsafari/jsafari_ganche.php">Ganche</a>
-								          	<a class="dropdown-item" href="../jeepsafari/jsafari_deosai.php">Deosai</a>
-								          	<a class="dropdown-item" href="../jeepsafari/jsafari_hunza.php">Hunza</a>
-								          </div>
-								      </li> -->
-								      <!-- <li class="nav-item dropdown">
-								        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								          Booking
-								        </a>
-								        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								          <a class="dropdown-item" href="#">Packages</a>
-								          <a class="dropdown-item" href="#">Book a Tour</a>
-								          <div class="dropdown-divider"></div>
-								          
-								          
-								        </div>
-								      </li> -->
-								      <li class="nav-item">
-								      	<a class="nav-link" href="../../contact.php">Contact</a>
-								      	
-								      </li>
-								      <!-- <li class="nav-item">
-								        <a class="nav-link disabled" href="#">Disabled</a>
-								      </li> -->
-								    </ul>
-								    
-								  </div>
-								</nav>
-								<!-- <div class="menu-bar"><span class="lnr lnr-menu"></span> -->
-									
-								<!-- 	<span >
-										<i style="color:grey;" class="fas fa-ellipsis-v fa-1x"></i>
-									</span> -->
-								<!-- </div> -->
-							</div>
-						</div>
-					</div>
-				
-			</header>		
+		<?php 
+				include'header.php';
+			?>
 	<!-- End Header Area -->
-			<br /><br />
-			<br /><br />
-			<br /><br />
-			<br /><br />
+		
 
+
+<!-- Start feature Area -->
+			<section class="feature-area section-gap mountain_gear">
+				<div class="container">
+					<br /><br /><br />
+					<h3 class="text-center">MOUNTAIN GEAR</h3>
+					<br /> <br /> <br />
+					<div class="row">
+						<div class="sigle-feature col-lg-3 col-md-6">
+							<span class="lnr fas fa-mitten fa-5x"></span>
+							<span class="lnr fas fa-hand-rock fa-5x"></span>
+							
+							
+							<h4>HANDS</h4>
+							<p>
+								1 Pair of linear gloves<br/>
+								1 Pair of fleece or wool mittens<br />
+								1 Pair of Gore-Tex or similar over mitts<br />
+								1 Pair of ski-gloves
+
+							</p>
+							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
+						</div>
+						<div class="sigle-feature col-lg-3 col-md-6">
+							<span class="lnr fas fa-shoe-prints fa-5x"></span>
+							<span class="lnr fas fa-socks fa-5x"></span>
+							<span class="lnr fas fa-hard-hat fa-5x"></span>
+							<h4>FEET, HEAD</h4>
+							<p>
+								2 Pairs of light-weight socks<br />
+								2 Pairs of heavy-weight socks<br/>
+								1 Hat or cap for the sun<br />
+								1 Fleece hat or balaclava<br />
+								
+							</p>
+							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
+						</div>
+						<div class="sigle-feature col-lg-3 col-md-6">
+							<span class="lnr fas fa-tshirt"></span>
+							<span class="lnr fas fa-male fa-5x"></span>
+							<h4>UPPER BODY</h4>
+							<p>
+								2 Polypropylene tops<br />
+								2 Long sleeve shirts<br />
+								1 Fleece jackets<br />
+								1 Windowproof Gore-Tex or similar parka<br />
+								1 Down Jacket<br />
+								
+							</p>
+							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
+						</div>
+						<div class="sigle-feature col-lg-3 col-md-6">
+							<span class="lnr fas fa-tshirt fa-5x"></span>
+							<h4>LOWER BODY</h4>
+							<p>
+								1 Pair of light hiking pants<br />
+								1 Pair of fleece pants <br />
+								1 Pair of windproof  Gore-Tex or similar pants.
+							</p>
+							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
+						</div>
+
+					</div>
+
+					<div class="row">
+						<div class="sigle-feature col-lg-3 col-md-6">
+							<span class="lnr fas fa-mitten fa-5x"></span>
+							<span class="lnr fas fa-hand-rock fa-5x"></span>
+							
+							
+							<h4>UNDERWEAR</h4>
+							<p>
+								2 Pairs of synthetic underwear tops<br />
+								bottoms underwear<br />
+
+							</p>
+							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
+						</div>
+						<div class="sigle-feature col-lg-3 col-md-6">
+							
+							<span class="lnr fas fa-socks fa-5x"></span>
+							
+							<h4>FOOTWEAR</h4>
+							<p>
+								1 Pair of plastic mountaineering boots<br />
+								1 Pair of trekking boots<br />
+								1 Pair of gaiters or supergaiters
+							</p>
+							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
+						</div>
+						<div class="sigle-feature col-lg-3 col-md-6">
+							<span class="lnr fas fa-tshirt"></span>
+							<span class="lnr fas fa-suitcase fa-5x"></span>
+							
+							<h4>FOR THE TRIP</h4>
+							<p>
+								Plastic bags<br />
+								Reusable Hand Warmers<br />
+								1Sandals or Tevas<br />
+								
+								
+							</p>
+							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
+						</div>
+						<div class="sigle-feature col-lg-3 col-md-6">
+							<span class="lnr fas fa-glasses fa-5x"></span>
+							<span class="lnr fas fa-hiking fa-5x"></span>
+							<span class="lnr fas fa-running fa-5x"></span>
+							<h4>PERSONNAL</h4>
+							<p>
+								Dry quick Towel<br />
+								Personal hygiene and first aid kits <br />
+								1 Pocket knife<br />
+								Batteries for headlamp <br />
+								Travel Log and Pen Camera, Film, Sun block etc.,
+							</p>
+							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
+						</div>
+
+					</div>
+				</div>
+			</section>
+
+			<!-- End feature Area -->
 
 
 	<!-- Start blog Area -->
@@ -331,54 +362,31 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-	<script src="js/vendor/jquery-2.2.4.min.js"></script>
+	<script src="../../js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
 	<!-- <script src="js/vendor/bootstrap.min.js"></script> -->
-	<script src="js/owl.carousel.min.js"></script>
-	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="js/jquery.sticky.js"></script>
-	<script src="js/parallax.min.js"></script>
+	<script src="../../js/owl.carousel.min.js"></script>
+	<script src="../../js/jquery.ajaxchimp.min.js"></script>
+	<script src="../../js/jquery.sticky.js"></script>
+	<script src="../../js/parallax.min.js"></script>
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/main.js"></script>
+	<script src="../../js/jquery.magnific-popup.min.js"></script>
+	<!-- <script src="../../js/main.js"></script> -->
+
+  <script type="text/javascript">
+  $(function () {
+  $(document).scroll(function () {
+    var $nav = $(".navbar");
+    $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
+  });
+});
+</script>
+
 
 
 

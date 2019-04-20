@@ -8,7 +8,7 @@ include_once "PHPMailer/Exception.php";
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--[endif]-->
+<!--[if gt IE 8]> <!--> <html class="no-js" lang=""> <!--[endif]-->
 <html>
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale= 1, shrink-to-fit= no">
@@ -393,39 +393,6 @@ $(document).ready(function() {
 
 
 			<!--  End booking Area -->
-
-			
-			
-
-			
-			<!-- Start about Area -->
-			<section class="about-area package_not">
-				<div class="container-fluid">
-					<div class="row d-flex justify-content-end align-items-center">
-						<div class="col-lg-6 col-md-12 about-left">
-							<br /><br /><br /><br />
-							<br /><br /><br /><br />
-							<h1>Did not find your Package? <br>
-							Feel free to ask us. <br>
-							We‘ll make it for you</h1>
-							<p>
-								We are local based tour operators in Pakistan. The way back to establish Machulo Treks & Tours, stand our whole career experience in the field of adventure and cultural tourism in our country. We have experience of summiting K2, Broad Peak, Nanga Parbat, K7, Gashabrum etc., many times in all seasons.
-							</p>
-							<a href="packages/climb/climbing.php"><button class="btn btn-black">FIND OUT MORE PACKAGES</button></a>
-						</div>
-						<div class="col-lg-6 col-md-12 about-right no-padding">
-							<img class="img-fluid" src="images/designedpictures/2.png" alt="">
-						</div>
-					</div>
-				</div>
-				<br /><br /><br /><br />
-							<br /><br /><br /><br />
-			</section>
-			<!-- End about Area -->
-
-
-			
-
 			<!--  Start Popular Packages -->
 			<div class="packages_carousel_bg" >
 				<br /><br /><br />
@@ -648,135 +615,73 @@ $(document).ready(function() {
 			
 			<!-- End packages Area -->
 
+		
+			
+			
+
+			
+			<!-- Start about Area -->
+			<section class="about-area package_not">
+				<div class="container-fluid">
+					<div class="row d-flex justify-content-end align-items-center">
+						<div class="col-lg-6 col-md-12 about-left">
+							<br /><br /><br /><br />
+							<br /><br /><br /><br />
+							<h1>Did not find your Package? <br>
+							Feel free to ask us. <br>
+							We‘ll make it for you</h1>
+							<p>
+								We are local based tour operators in Pakistan. The way back to establish Machulo Treks & Tours, stand our whole career experience in the field of adventure and cultural tourism in our country. We have experience of summiting K2, Broad Peak, Nanga Parbat, K7, Gashabrum etc., many times in all seasons.
+							</p>
+							<a href="packages/climb/climbing.php"><button class="btn btn-black">FIND OUT MORE PACKAGES</button></a>
+						</div>
+						<div class="col-lg-6 col-md-12 about-right no-padding">
+							<img class="img-fluid" src="images/designedpictures/2.png" alt="">
+						</div>
+					</div>
+				</div>
+				<br /><br /><br /><br />
+							<br /><br /><br /><br />
+			</section>
+			<!-- End about Area -->
+
+				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+			
+
+			
 
 
 
 			
 
-				<!-- Start feature Area -->
-			<section class="feature-area section-gap mountain_gear">
-				<div class="container">
-					<br /><br /><br />
-					<h3 class="text-center">MOUNTAIN GEAR</h3>
-					<br /> <br /> <br />
-					<div class="row">
-						<div class="sigle-feature col-lg-3 col-md-6">
-							<span class="lnr fas fa-mitten fa-5x"></span>
-							<span class="lnr fas fa-hand-rock fa-5x"></span>
-							
-							
-							<h4>HANDS</h4>
-							<p>
-								1 Pair of linear gloves<br/>
-								1 Pair of fleece or wool mittens<br />
-								1 Pair of Gore-Tex or similar over mitts<br />
-								1 Pair of ski-gloves
-
-							</p>
-							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
-						</div>
-						<div class="sigle-feature col-lg-3 col-md-6">
-							<span class="lnr fas fa-shoe-prints fa-5x"></span>
-							<span class="lnr fas fa-socks fa-5x"></span>
-							<span class="lnr fas fa-hard-hat fa-5x"></span>
-							<h4>FEET, HEAD</h4>
-							<p>
-								2 Pairs of light-weight socks<br />
-								2 Pairs of heavy-weight socks<br/>
-								1 Hat or cap for the sun<br />
-								1 Fleece hat or balaclava<br />
-								
-							</p>
-							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
-						</div>
-						<div class="sigle-feature col-lg-3 col-md-6">
-							<span class="lnr fas fa-tshirt"></span>
-							<span class="lnr fas fa-male fa-5x"></span>
-							<h4>UPPER BODY</h4>
-							<p>
-								2 Polypropylene tops<br />
-								2 Long sleeve shirts<br />
-								1 Fleece jackets<br />
-								1 Windowproof Gore-Tex or similar parka<br />
-								1 Down Jacket<br />
-								
-							</p>
-							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
-						</div>
-						<div class="sigle-feature col-lg-3 col-md-6">
-							<span class="lnr fas fa-tshirt fa-5x"></span>
-							<h4>LOWER BODY</h4>
-							<p>
-								1 Pair of light hiking pants<br />
-								1 Pair of fleece pants <br />
-								1 Pair of windproof  Gore-Tex or similar pants.
-							</p>
-							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
-						</div>
-
-					</div>
-
-					<div class="row">
-						<div class="sigle-feature col-lg-3 col-md-6">
-							<span class="lnr fas fa-mitten fa-5x"></span>
-							<span class="lnr fas fa-hand-rock fa-5x"></span>
-							
-							
-							<h4>UNDERWEAR</h4>
-							<p>
-								2 Pairs of synthetic underwear tops<br />
-								bottoms underwear<br />
-
-							</p>
-							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
-						</div>
-						<div class="sigle-feature col-lg-3 col-md-6">
-							
-							<span class="lnr fas fa-socks fa-5x"></span>
-							
-							<h4>FOOTWEAR</h4>
-							<p>
-								1 Pair of plastic mountaineering boots<br />
-								1 Pair of trekking boots<br />
-								1 Pair of gaiters or supergaiters
-							</p>
-							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
-						</div>
-						<div class="sigle-feature col-lg-3 col-md-6">
-							<span class="lnr fas fa-tshirt"></span>
-							<span class="lnr fas fa-suitcase fa-5x"></span>
-							
-							<h4>FOR THE TRIP</h4>
-							<p>
-								Plastic bags<br />
-								Reusable Hand Warmers<br />
-								1Sandals or Tevas<br />
-								
-								
-							</p>
-							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
-						</div>
-						<div class="sigle-feature col-lg-3 col-md-6">
-							<span class="lnr fas fa-glasses fa-5x"></span>
-							<span class="lnr fas fa-hiking fa-5x"></span>
-							<span class="lnr fas fa-running fa-5x"></span>
-							<h4>PERSONNAL</h4>
-							<p>
-								Dry quick Towel<br />
-								Personal hygiene and first aid kits <br />
-								1 Pocket knife<br />
-								Batteries for headlamp <br />
-								Travel Log and Pen Camera, Film, Sun block etc.,
-							</p>
-							<!-- <a href="#" class="text-uppercase primary-btn2 primary-border circle">View Details</span></a> -->
-						</div>
-
-					</div>
-				</div>
-			</section>
-
-			<!-- End feature Area -->
-
+				
 			<br /><br /><br />
 			<br /><br /><br />
 
@@ -960,13 +865,7 @@ $(document).ready(function() {
 
 
 
-	<!-- <script type="text/javascript" src="js/bootstrap.js"></script>
-	<script type="text/javascript" src="js/bootstrap.js.map"></script>
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="js/bootstrap.bundle.js"></script>
-	<script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
-	<script type="text/javascript" src="js/bootstrap.min.js.map"></script>
- -->
+
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
