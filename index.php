@@ -650,16 +650,84 @@ $(document).ready(function() {
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
-  <div class="carousel-inner">
+  <div class="carousel-inner ">
     <div class="carousel-item active">
       <img class="d-block w-100" src="images/nelum.jpg" alt="First slide">
+       <div class="carousel-caption d-none d-md-block ">
+    <h3>Skardu</h3>
+    <a class="badge badge-info" href="packages/tours/skardu.php" >Details</a>
+  </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="images/nelum.jpg" alt="Second slide">
+       <div class="carousel-caption d-none d-md-block">
+	    <h3>Blossom Tour</h3>
+	    <a  class="badge badge-info" href="packages/tours/">Details</a>
+	  </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="images/nelum.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+	    <h3>Deosai</h3>
+	    <a  class="badge badge-info" href="packages/tours/Deosai.php">Details</a>
+	  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+	    <h3>Fairy Meadows</h3>
+	    <a  class="badge badge-info" href="packages/tours/fairymeadow.php">Details</a>
+	  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+	    <h3>Hunza</h3>
+	    <a  class="badge badge-info" href="packages/tours/hunza.php">Details</a>
+	  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+	    <h3>Hushe</h3>
+	    <a  class="badge badge-info" href="packages/tours/hushe.php">Details</a>
+	  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+	    <h3>Naran Kaghaan</h3>
+	    <a  class="badge badge-info" href="packages/tours/naranka.php">Details</a>
+	  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+	    <h3>Shimshal</h3>
+	    <a  class="badge badge-info" href="packages/tours/shimshal.php">Details</a>
+	  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+	    <h3>Silk Route</h3>
+	    <a  class="badge badge-info" href="packages/tours/silkroute.php">Details</a>
+	  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/nelum.jpg" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+	    <h3  >Autum Gilgit-Baltistan</h3>
+	    <a  class="badge badge-info" href="packages/tours/autumgb.php">Details</a>
+	  </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
