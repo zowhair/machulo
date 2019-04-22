@@ -660,7 +660,7 @@ $(document).ready(function() {
   </ol>
   <div class="carousel-inner ">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="images/nelum.jpg" alt="First slide">
+      <img class="d-block w-100 img-fluid" src="images/nelum.jpg" alt="First slide">
        <div class="carousel-caption d-none d-md-block ">
     <h3>Skardu</h3>
     <a class="badge badge-info" href="packages/tours/skardu.php" >Details</a>
@@ -950,6 +950,28 @@ $(document).ready(function() {
 	<script src="js/jquery.magnific-popup.min.js"></script>
 	<!-- <script src="js/main.js"></script> -->
 	<script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
+	<!-- WhatsHelp.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            facebook: "407290259428366", // Facebook page ID
+            whatsapp: "03555180479", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "right", // Position may be 'right' or 'left'
+            order: "facebook,whatsapp", // Order of buttons
+        };
+        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /WhatsHelp.io widget -->
+
+
+	
+
 
 </body>
 </html>
