@@ -616,7 +616,7 @@ $(document).ready(function() {
 			<!-- End packages Area -->
 
 		
-			
+			<br /> <br /><br /> <br /><br /> <br />
 			
 
 			
@@ -643,6 +643,7 @@ $(document).ready(function() {
 				<br /><br /><br /><br />
 							<br /><br /><br /><br />
 			</section>
+				<br /> <br /><br /> <br /><br /> <br />
 			<!-- End about Area -->
 
 				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -766,24 +767,30 @@ $(document).ready(function() {
 					<br /><br /><br />
 					<div class="row">
 						<div class="single-info  col-lg-4 col-md-6">
-							<span class="lnr fas fa-building fa-5x"></span><br /><br /><br />
-							 <h4>Visit Our Office</h4>
-							 <p>
-							 	Shaheed Colony Sukemedan Ganche Store, Skardu
+							<div class="single">
+								<span class="lnr fas fa-building fa-5x"></span><br /><br /><br />
+								 <h4>Visit Our Office</h4>
+								 <p>
+								 	Shaheed Colony  Opposite Ganche Store Skardu, Giglgit-Biltistan Pakistan<br><br>
 
-							 </p>
+								 </p>
+							</div>
 						</div>
+
 						<div class="single-info col-lg-4 col-md-6">
+							<div class="single">
 							<span class="lnr fas fa-mobile-alt fa-5x"></span><br /><br /><br />
 							 <h4>Let’s call us</h4>
 							 <p>
-								Phone 01: +92 583-152984 <br>
-								Phone 02: +92 344 5401175 <br>
-								Phone 03: +92 355-5250691
+								Phone : +92 583-152984 <br>
+								Phone : +92 344 5401175 <br>
+								Phone : +92 355-5250691
 							 </p>
+							</div>
 						</div>
 						
 						<div class="single-info col-lg-4 col-md-6">
+							<div class="single">
 							<span class="lnr fas fa-envelope fa-5x"></span><br /><br /><br />
 							 <h4>Customer Support</h4>
 							 <p>
@@ -791,6 +798,7 @@ $(document).ready(function() {
 								dongdongpamachulo@gmail.com <br>
 								maqeelm388@gmail.com
 							 </p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -955,9 +963,9 @@ $(document).ready(function() {
     (function () {
         var options = {
             facebook: "407290259428366", // Facebook page ID
-            whatsapp: "03555180479", // WhatsApp number
+            whatsapp: "+923555180479", // WhatsApp number
             call_to_action: "Message us", // Call to action
-            button_color: "#FF6550", // Color of button
+            button_color: "#129BF4", // Color of button
             position: "right", // Position may be 'right' or 'left'
             order: "facebook,whatsapp", // Order of buttons
         };
