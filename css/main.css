@@ -33,7 +33,11 @@
 }
 .heading{
 	font-family: 'Germania One', cursive;
+	font-size: 2em;
 
+}
+#package p{
+	font-size:1.5em;
 }
 .titlepkg{
 	font-family: 'Teko', sans-serif;
@@ -182,3 +186,5 @@
 .single>p{
  font-weight: 400;
 }
+
+

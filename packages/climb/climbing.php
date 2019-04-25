@@ -28,6 +28,134 @@
 	?>
 <br /><br /><br /><br />
 
+
+	<!-- Start blog Area -->
+			<section class="blog-area section-gap">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-md-8 pb-30 header-text">
+								<h1 class="heading">Climbing Packages</h1>
+							<p>
+								"Machulo" does not require too much introduction, particularly talking about adventure tourism; it is a big reference among the great mountain ranges of Karakorams, Himalayas and Hindukush. In this remote village of Baltistan, most of the youth work with trekking and expedition groups as guide, cook, low and high altitude porters. Several of them have already been on the tops of the K-2(Godwin Austin), Nanga Parbat, Broad peak and Gashabrums.
+							</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="single-blog col-lg-4 col-md-4">
+
+							<img class="f-img img-fluid mx-auto" src="../../images/images1/k2a.jpeg" alt="">
+							<h4>
+								<a href="#" class="titlepkg"> K2</a>
+							</h4>
+							<p style="color:black;font-weight:200;">
+							K2 is normally of 57 days of journey. We have full schedule for this.
+
+								
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								
+								<div class="meta">
+									<a href="package_k2.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
+								</div>
+							</div>
+						</div>
+						<div class="single-blog col-lg-4 col-md-4">
+							<img class="f-img img-fluid mx-auto" src="../../images/images1/nangaparbat.jpg" alt="">
+							<h4>
+								<a href="#" class="titlepkg">Nangaparbat</a>
+							</h4>
+							<p  style="color:black;font-weight:200;">
+								We can also take you nangaparbat and that place is very gasha gasha.
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								
+								<div class="meta">
+									<a href="package_nangaparbat.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
+								</div>
+							</div>
+						</div>
+						<div class="single-blog col-lg-4 col-md-4">
+							<img class="f-img img-fluid mx-auto" src="../../images/images1/gasherbrum.jpg" alt="">
+							<h4>
+								<a href="#" class="titlepkg">GASHERBRUM</a>
+							</h4>
+							<p  style="color:black;font-weight:200;">
+								We also take tourists to GASHERBRUM peak but the picture is of GASHERBRUM
+
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								
+								<div class="meta">
+									<a href="package_gasherbrum.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<br /> <br /> <br /> <br />
+					<br /> <br /> <br /> <br />
+
+						<div class="row">
+						<div class="single-blog col-lg-4 col-md-4">
+
+							<img class="f-img img-fluid mx-auto" src="../../images/images1/Broad.jpg" alt="">
+							<h4>
+								<a href="#" class="titlepkg">BROAD PEAK</a>
+							</h4>
+							<p  style="color:black;font-weight:200;">
+							BROAD PEAK is one of the huge mountains which towers above Concordia at....
+
+								
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								
+								<div class="meta">
+									<a href="package_broadpeak.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
+								</div>
+							</div>
+						</div>
+						<div class="single-blog col-lg-4 col-md-4">
+							<img class="f-img img-fluid mx-auto" src="../../images/images1/trango.jpg" style="width: 350px;height: 263px" alt="">
+							<h4>
+								<a href="#" class="titlepkg">TRANGO TOWER</a>
+							</h4>
+							<p  style="color:black;font-weight:200;">
+								Great TRANGO TOWER is one of the most spectacular granite towers in the world....
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								
+								<div class="meta">
+									<a href="package_trangotower.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
+								</div>
+							</div>
+						</div>
+						<div class="single-blog col-lg-4 col-md-4">
+							<img class="f-img img-fluid mx-auto" src="../../images/images1/laila-peak.jpg" alt="">
+							<h4>
+								<a href="#" class="titlepkg">LAILA PEAK</a>
+							</h4>
+							<p  style="color:black;font-weight:200;">
+								LAILA PEAK is a mountain in Hushe Valley near Gondogoro Glacier in Karakoram Range....
+
+							</p>
+							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
+								
+								<div class="meta">
+									<a href="package_lailapeak.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+
+
+				</div>
+			</section>
+			<!-- End blog Area -->
+
+
+
+<br /><br />
 <!-- Start feature Area -->
 			<section class="feature-area section-gap mountain_gear" style="margin-top: -10%;">
 				<div class="container">
@@ -153,130 +281,8 @@
 
 			<!-- End feature Area -->
 
-	<!-- Start blog Area -->
-			<section class="blog-area section-gap">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-md-8 pb-30 header-text">
-								<h1 class="heading">Climbing Packages</h1>
-							<p>
-								"Machulo" does not require too much introduction, particularly talking about adventure tourism; it is a big reference among the great mountain ranges of Karakorams, Himalayas and Hindukush. In this remote village of Baltistan, most of the youth work with trekking and expedition groups as guide, cook, low and high altitude porters. Several of them have already been on the tops of the K-2(Godwin Austin), Nanga Parbat, Broad peak and Gashabrums.
-							</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="single-blog col-lg-4 col-md-4">
-
-							<img class="f-img img-fluid mx-auto" src="../../images/images1/k2a.jpeg" alt="">
-							<h4>
-								<a href="#" class="titlepkg"> K2</a>
-							</h4>
-							<p style="color:black;font-weight:200;">
-							K2 is normally of 57 days of journey. We have full schedule for this.
-
-								
-							</p>
-							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
-								
-								<div class="meta">
-									<a href="package_k2.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
-								</div>
-							</div>
-						</div>
-						<div class="single-blog col-lg-4 col-md-4">
-							<img class="f-img img-fluid mx-auto" src="../../images/images1/nangaparbat.jpg" alt="">
-							<h4>
-								<a href="#" class="titlepkg">Nangaparbat</a>
-							</h4>
-							<p  style="color:black;font-weight:200;">
-								We can also take you nangaparbat and that place is very gasha gasha.
-							</p>
-							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
-								
-								<div class="meta">
-									<a href="package_nangaparbat.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
-								</div>
-							</div>
-						</div>
-						<div class="single-blog col-lg-4 col-md-4">
-							<img class="f-img img-fluid mx-auto" src="../../images/images1/gasherbrum.jpg" alt="">
-							<h4>
-								<a href="#" class="titlepkg">GASHERBRUM</a>
-							</h4>
-							<p  style="color:black;font-weight:200;">
-								We also take tourists to GASHERBRUM peak but the picture is of GASHERBRUM
-
-							</p>
-							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
-								
-								<div class="meta">
-									<a href="package_gasherbrum.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
-								</div>
-							</div>
-						</div>
-
-					</div>
-					<br /> <br /> <br /> <br />
-					<br /> <br /> <br /> <br />
-
-						<div class="row">
-						<div class="single-blog col-lg-4 col-md-4">
-
-							<img class="f-img img-fluid mx-auto" src="../../images/images1/Broad.jpg" alt="">
-							<h4>
-								<a href="#" class="titlepkg">BROAD PEAK</a>
-							</h4>
-							<p  style="color:black;font-weight:200;">
-							BROAD PEAK is one of the huge mountains which towers above Concordia at....
-
-								
-							</p>
-							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
-								
-								<div class="meta">
-									<a href="package_broadpeak.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
-								</div>
-							</div>
-						</div>
-						<div class="single-blog col-lg-4 col-md-4">
-							<img class="f-img img-fluid mx-auto" src="../../images/images1/trango.jpg" style="width: 350px;height: 263px" alt="">
-							<h4>
-								<a href="#" class="titlepkg">TRANGO TOWER</a>
-							</h4>
-							<p  style="color:black;font-weight:200;">
-								Great TRANGO TOWER is one of the most spectacular granite towers in the world....
-							</p>
-							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
-								
-								<div class="meta">
-									<a href="package_trangotower.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
-								</div>
-							</div>
-						</div>
-						<div class="single-blog col-lg-4 col-md-4">
-							<img class="f-img img-fluid mx-auto" src="../../images/images1/laila-peak.jpg" alt="">
-							<h4>
-								<a href="#" class="titlepkg">LAILA PEAK</a>
-							</h4>
-							<p  style="color:black;font-weight:200;">
-								LAILA PEAK is a mountain in Hushe Valley near Gondogoro Glacier in Karakoram Range....
-
-							</p>
-							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
-								
-								<div class="meta">
-									<a href="package_lailapeak.php" class="primary-btn text-center" style="width: 200%;">See Details<span class="lnr lnr-arrow-right" ></span></a>
-								</div>
-							</div>
-						</div>
-						
-					</div>
 
 
-				</div>
-			</section>
-			<!-- End blog Area -->
-<br /><br />
 			<br /><br />
 			<br /><br />
 			<br /><br />

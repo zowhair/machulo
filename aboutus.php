@@ -52,46 +52,116 @@
 			<br /><br />
 			<br /><br />
 			<br /><br />
-		
-
-			<!-- Start contact-info Area -->
-			<section class="contact-info-area section-gap">
-				<div class="container">
-					<h3 class="text-center">STAY CONNECTED</h3>
-					<br /><br /><br />
-					<div class="row">
-						<div class="single-info  col-lg-4 col-md-6">
-							<span class="lnr fas fa-building fa-5x"></span><br /><br /><br />
-							 <h4>Visit Our Office</h4>
-							 <p>
-							 	Shaheed Colony Sukemedan Ganche Store, Skardu
-
-							 </p>
-						</div>
-						<div class="single-info col-lg-4 col-md-6">
-							<span class="lnr fas fa-mobile-alt fa-5x"></span><br /><br /><br />
-							 <h4>Let’s call us</h4>
-							 <p>
-								Phone 01: +92 583-152984 <br>
-								Phone 02: +92 344 5401175 <br>
-								Phone 03: +92 355-5250691
-							 </p>
-						</div>
-						
-						<div class="single-info col-lg-4 col-md-6">
-							<span class="lnr fas fa-envelope fa-5x"></span><br /><br /><br />
-							 <h4>Customer Support</h4>
-							 <p>
-							 	info@machulo.com <br>
-								dongdongpamachulo@gmail.com <br>
-								maqeelm388@gmail.com
-							 </p>
+				<section class="packages-area" id="package">
+					<div class="container-fluid">
+						<div class="row d-flex justify-content-center">
+						<div class="col-md-6 pb-80 header-text">
+							<h1 class="heading">Our Mission</h1>
+							<p style="">
+								To create an enabling environment for Pakistan’s tourism industry by providing world-class facilities that commensurate with our rich cultural heritage, rare archaeological treasures and exquisite environmental beauty in close partnership and coordination between the public and the private sector while preserving and protecting our cultural and moral values and projecting tourist friendly image of the country.
+							</p>
 						</div>
 					</div>
-				</div>
-			</section>
+					<div class="row d-flex justify-content-center">
+						<div class="col-md-6 pb-80 header-text">
+							<h1 class="heading">Our Vision</h1>
+							<p style="">
+								The Vision is to develop the tourism sector as a national priority in a sustainable and acceptable manner, taking full advantage of regional and international trends and developments so that it can significantly contribute to the improvement of quality of life in Pakistan whilst promoting the country’s cultural and natural heritage.
+							</p>
+						</div>
+					</div>
+					<div class="row d-flex justify-content-center">
+						<div class="col-md-6 pb-80 header-text">
+							<h1 class="heading">Our Team</h1>
 
-			<!-- End contact-info Area -->
+							<img src="images/about/shamshair.png" />
+							<h3>Shamshair Ali</h3>
+							<h5><br/>Founder/General Manager</h5>
+							<p style="">
+								Shamshair Ali was born in an ancient scenic and mountainous valley “Machulo”. He completed the elementary education from a local school and went to Khaplu for further education. He left for Skardu, after completing matriculation/ secondary level education from Khaplu. He completed degree level education from Skardu, after that, he got affiated with a tour operating company and worked as a “Sardar”. He rendered his service in tourism with complete devotion, sincerely and commitment. Later on, in companionship of Akon Ibrahim, he started to work with their Spanish friend as travel guide. Shamshair’s professional behavior and sincerity in his occupational chares resulted to strengthen their relationship and soon Mr. John Laz Cano, the Spanish friend of his company/partner becomes his confident friend. Mr. Shamshair Ali established the Green Mountain Climbing School the year 1997. Mr. John Lazcano supported Shamshair Ali and Akhon Mohammad Ibrahim for all successful establishment of the climbing school and played a vital role. The local youth were trained in mountain climbing and many among them successfully submitted over the 8000M HAPs.
+In 2001, after the sudden demise of Felix foundation was established in comemorendom of Mr. Felix. Later on, this organization kicked off its services for the well being and community development initiatives were launched and a large number of people have been facilitated in quality education, community health education, MNCH, tourism, rehabilitation of disaster affected people, and particularly in women empowerment and gender awareness.
+Mr. Shamshair Ali rendered years long voluntary services even he left a joint in his domestic economy and livelihood. His valuable voluntary services had boosted up his professional skills and had vast experience in the field of mountain guide and tourism and on such a solid foundation Mr. Shamshair Ali formed a tourist company namely, “Machulo Treks and Tours Pakistan”. This tour operating company has now been providing reliable and professional services and become a well-reputed company. The company owns the pledge to provide services to a renowned Spanish company “BANOA” as a leading services provider in Pakistain. 
+								
+							</p>
+						</div>
+					</div>
+					<div class="row d-flex justify-content-center">
+						<div class="col-md-6 pb-80 header-text">
+							
+
+							<img src="images/about/akhond.jpg" />
+							<h3>Akhond Muhammad Ibrahim</h3>
+							<h5><br/>Co-Founder/Tour Guide</h5>
+							<p style="">
+								Akhond Muhammad Ibrahim born in village Machulo of Tehsil Masherbrum district Ghanche. Machulo is agricultural village but have less water so he and his family decided to migrate from machulo to saling. He lived their till now and went to get Islamic education in Gulshan Kabeer a Village of District Ghanche. 
+He started his career as a cook in the field of tourism at karakoram Mouontains in 1980.Later he become mountain guide and mountaineer. He served his whole life for the enhancement of tourism in Pakistan.  He went to many countries like Spain France etc for trekking and expeditions. It was his passions and faithfulness which he showed the whole time during his duty. If anybody round about the world meet him and travel with him likes and everybody admire him. In these days he is one of the best Mountain guide in Pakistan, especially for European people. This is just related to trekking and mountaineering. He have many more talents which are as fellow.
+Meanwhile, he started working with “BANOA” a Spanish company as a cook as well as guide. His friendly attitude and faithfulness close friendship between him and the owner and guide of BANOA Mr. Jon laskano. He worked in relation with BANOA since 1982 to date.   
+In order to promote tourism, he started a climbing school in Machulo valley with few of his close friends after the dead of Felix Innuaratagi the school named after him. He got training of climbing himself from Spain and started to trained the village youth. Since 2002 he has been working historically in Hushe Valley by founding an organization Felix Foundation with the help of foreign friends.
+Now, the foundation has been working in the fields of Education, Agriculture, Development of women, Rehabilitation of the flood effected person and health as well. These are purely self-service based. 
+After work in many local companies he gets experienced that every local companies are getting much profit then they deserve or not fulfill the requirement of the tourist such a place like baltoro, snow lake or other back ward or harsh places in Pakistan, he decided to make his own company along with his best friend Shamshair Ali, and kept the name of company as, “Machulo Treks & Tour Pakistan”. He and his partner establish this company in 2007. They got many groups for baltoro and other jeep safaris in Pakistan especially in Gilgit Baltistan and served them their best and everybody like their Hospitality even all the trevellers are in the contact of him till now. They are running the company with the aim of serving the best service and provided the best possible facilities to the tourist.  
+In the resume of him he has been worked with many legendary climbers like Alberto inurratagi and Felix inurrategi, Alex Txikon, Juanjo sansabastian, Adolfo Madinabetia, Tassio, Tamayo and many more star climber of the world. 
+He is also Board member and Founding member of Felix foundation Baltistan (FFB). He also served as a head of agricultural in FFB, Head of constructions in FFB and many more works he has been don for the enhancement of this NGO. 
+							</p>
+						</div>
+					</div>
+
+					</div>
+				</section>
+				<div class="container marketing">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="rounded-circle" src="images/about/kaleem.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>Kaleem Ali</h2>
+          <h4>Managing Director/Graphic Desinger</h4>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle" src="images/about/xayyal.png" alt="Generic placeholder image" width="140" height="140">
+          <h2>Xayyal Amin</h2>
+          <h4>Tour Manager/Tour Guide</h4>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle" src="images/about/BOY.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>Muhammad Saleem</h2>
+          <h4>Tour Guide(Baltoro Trek)</h4>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="rounded-circle" src="images/about/skd1.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>Muhammad Aqeel</h2>
+          <h4>Media In-Charge/Tour Guide</h4>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle" src="images/about/BOY.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>Ali Malikpa</h2>
+          <h4>Cook for Baltoro</h4>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle" src="images/about/BOY.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>Muhammad Ilyas</h2>
+          <h4>Assistant Cook</h4>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+		
+
+			
 			
 			<!-- Start Contact Area -->
 			<section class="contact-area" id="contact">
@@ -249,7 +319,35 @@
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/main.js"></script>
+	<!-- <script src="js/main.js"></script> -->
+	<!-- WhatsHelp.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            facebook: "407290259428366", // Facebook page ID
+            whatsapp: "+923555180479", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            button_color: "#129BF4", // Color of button
+            position: "right", // Position may be 'right' or 'left'
+            order: "facebook,whatsapp", // Order of buttons
+        };
+        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /WhatsHelp.io widget -->
+
+<script type="text/javascript">
+	$(function () {
+  $(document).scroll(function () {
+    var $nav = $(".navbar");
+    $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
+  });
+});
+</script>
+
 
 	
 </body>
